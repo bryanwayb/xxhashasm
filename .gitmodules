@@ -1,0 +1,4 @@
+[submodule "xxhash"]
+	path = xxhash
+	url = https://github.com/Cyan4973/xxHash.git
+	branch = master
