@@ -1,14 +1,19 @@
 {
   "name": "xxhashasm",
-  "version": "0.0.1",
-  "description": "xxHash compiled into JS using Emscripten",
+  "version": "0.0.2",
+  "description": "xxHash source compiled into JavaScript",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "xxhash"
+    "xxhash",
+	"emscripten"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryanwayb/xxhashasm.git"
+  },
   "author": "Bryan Way",
   "license": "MIT"
 }
